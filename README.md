@@ -6,9 +6,9 @@
 
 Download the [production version][min] or the [development version][max]
 
-[min]: https://raw.githubusercontent.com.com/marshal003/angular-validator/master/dist/angular-validator.min.js
+[min]: https://raw.githubusercontent.com/marshal003/angular-validator/master/dist/angular-validator.min.js
 
-[max]: https://raw.githubusercontent.com.com/marshal003/angular-validator/master/dist/angular-validator.js
+[max]: https://raw.githubusercontent.com/marshal003/angular-validator/master/dist/angular-validator.js
 
 In your web page:
 
@@ -22,7 +22,7 @@ OR
 ### Install Using Bower
 
 ```js
-bower install angular-validator
+bower install angular-form-validator
 
 OR from github as
 
